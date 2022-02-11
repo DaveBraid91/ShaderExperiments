@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Experiment_MultipleTextures
+  m_Shader: {fileID: -6465566751694194690, guid: 002dc440cf6bcce448a823d0e5d29e4d, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _TEXTURE_B:
+        m_Texture: {fileID: 2800000, guid: f40f5a6e8be677b4197c1d4df5176412, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TEXTURE_G:
+        m_Texture: {fileID: 2800000, guid: 70dd05beee408774d899453c4f1c110c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TEXTURE_R:
+        m_Texture: {fileID: 2800000, guid: f40f5a6e8be677b4197c1d4df5176412, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BLENDSHARPNESS: 10
+    - _NOISESCALE: 50
+    m_Colors:
+    - _BASECOLOR: {r: 0.17880026, g: 0.7735849, b: 0.24436927, a: 1}
+    - _DIRECTION: {r: 0, g: 1, b: 0, a: 0}
+    - _SNOWCOLOR: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

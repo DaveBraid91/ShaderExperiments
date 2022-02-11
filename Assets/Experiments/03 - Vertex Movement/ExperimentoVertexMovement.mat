@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ExperimentoVertexMovement
+  m_Shader: {fileID: -6465566751694194690, guid: 9f1aaf269dfdcba4a83ada86a2c72eb7, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_58bf4236dd184cae9b1efdc68b8a0b85: 0
+    - _HEIGHTOFFSET: 0.25
+    - _METALLIC: 0.528
+    - _MOVESPEED: 1
+    - _MOVESTRENGTH: 0.25
+    - _RANDOMOFFSET: 1
+    - _RANDOMVALUE: 10
+    - _ROTATION_SPEED: 2
+    - _SMOOTHNESS: 0.449
+    m_Colors:
+    - _COLOR: {r: 0.9697549, g: 1, b: 0, a: 1}
+    - _ROTATIONAXIS: {r: 0, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []
