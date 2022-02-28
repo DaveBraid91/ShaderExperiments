@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Experiments/XX - Others/Fortnite Galaxy/Fortnite Galaxy.unity
+- path: Assets/Experiments/XX - Others/Billboard/Billboard.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
