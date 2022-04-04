@@ -360,8 +360,8 @@
     ],
     "m_VertexContext": {
         "m_Position": {
-            "x": 299.0001220703125,
-            "y": 391.0
+            "x": 8.999938011169434,
+            "y": 273.00006103515627
         },
         "m_Blocks": [
             {
@@ -377,8 +377,8 @@
     },
     "m_FragmentContext": {
         "m_Position": {
-            "x": 299.0001220703125,
-            "y": 590.9999389648438
+            "x": 8.999938011169434,
+            "y": 473.0000305175781
         },
         "m_Blocks": [
             {
@@ -423,8 +423,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -243.00001525878907,
-            "y": 621.0,
+            "x": -452.9999694824219,
+            "y": 493.0000305175781,
             "width": 184.0,
             "height": 253.0
         }
@@ -651,7 +651,7 @@
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.GroupData",
     "m_ObjectId": "1498a57d9c7640e1803335179606d697",
-    "m_Title": "Billboard",
+    "m_Title": "",
     "m_Position": {
         "x": 10.0,
         "y": 10.0
@@ -915,10 +915,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1700.0,
-            "y": -68.00003051757813,
-            "width": 208.0,
-            "height": 278.0
+            "x": -1603.0,
+            "y": -29.999990463256837,
+            "width": 132.0,
+            "height": 94.0
         }
     },
     "m_Slots": [
@@ -985,8 +985,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -508.0000305175781,
-            "y": 637.0,
+            "x": -718.0,
+            "y": 509.0000305175781,
             "width": 124.0,
             "height": 34.0
         }
@@ -1379,10 +1379,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1865.0,
-            "y": -90.0000228881836,
+            "x": -1757.0,
+            "y": -76.00000762939453,
             "width": 124.0,
-            "height": 245.00001525878907
+            "height": 245.0
         }
     },
     "m_Slots": [
